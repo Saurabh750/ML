@@ -1,0 +1,7 @@
+status: 200
+content-type: text/html
+date: Mon, 24 Feb 2025 13:20:23 GMT
+content-length: 114
+content-location: http://diveintopython3.org/examples/feed.xml
+
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>
